@@ -1,0 +1,91 @@
+H1{
+  color: purple;
+  text-align: center;
+  font-style: italic;
+  font-size: 60px;
+}
+H2{
+  color: Black;
+  text-align: center;
+  font-style: oblique;
+  font-size: 40px;
+  background-color: Pink;
+}
+H3{
+  color: black;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+#SaveTheWildBodyTag  {
+  background-image: url("Images/Wildlife.jpg");}
+
+  div{
+    color: Blue;
+    background-color: Pink;
+    font-size: 20px
+    font-style:italic;
+    text-align: center;
+  }
+  .wild{
+    font-size: 35px;
+    color: BLACK;
+    background-position: center;
+  }
+  .aboutme{
+    color: purple;
+    font-style: oblique;
+    text-align: center;
+    font-size: 30px;
+  }
+  H5{
+    color: black;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+
+  }
+  #AboutMetag{
+    background-image: url("Images/SaveWild1.jpg")
+  }
+.instruction{
+  font-size: 25px;
+  color: black;
+  background-color: white;
+  text-align: center;
+}
+#video{
+  display:block;
+  border: 2px solid green;
+}
+
+h4{text-align: center;
+color: aqua;
+font-size: 45px;
+font-style: italic;
+background-color: gold;
+}
+p{
+  color: Blue;
+  font-size: 35px;
+  background-color: pink;
+}
+
+.button{
+  text-align: center;
+  color: green;
+  border: 2px dotted purple;
+}
+
+h1{
+color: Pink;
+font-size: 50px
+}
+p{ text-align: center;}
+h3{
+  font-size: 40px;
+}
+a{
+  color: black;
+  font-size: 30px;
+}
